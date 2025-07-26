@@ -1,12 +1,12 @@
-site_name: Site Name
-site_author: Author Name
+site_name: Luv Suneja
+site_author: Luv Suneja
 site_description: >-
-  Site Description
-repo_name: blog
-repo_url: https://github.com/jxnl/blog/
-site_url: https://jxnl.co/
+  Luv Suneja is a technical consultant specializing in AI strategy, implementation and optimization. He helps teams build robust AI systems that scale, optimize performance and reduce costs, implement best practices for long-term success, and enable teams with the right tools and knowledge.
+repo_name: consulting-blog-template
+repo_url: https://github.com/recalibr-ai/consulting-blog-template/
+site_url: https://luvsuneja.com/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Jason Liu 
+copyright: Copyright &copy; 2025 Luv Suneja 
 theme:
   name: material
   icon:

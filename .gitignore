@@ -1,2 +1,30 @@
-.cache/
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
 .venv/
+venv/
+ENV/
+env/
+
+# MkDocs
+site/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+.python-version
+hello.py
+.cache
+uv.lock
