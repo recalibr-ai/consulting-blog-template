@@ -2,8 +2,6 @@ site_name: Luv Suneja
 site_author: Luv Suneja
 site_description: >-
   Luv Suneja is a technical consultant specializing in AI strategy, implementation and optimization. He helps teams build robust AI systems that scale, optimize performance and reduce costs, implement best practices for long-term success, and enable teams with the right tools and knowledge.
-repo_name: consulting-blog-template
-repo_url: https://github.com/recalibr-ai/consulting-blog-template/
 site_url: https://luvsuneja.com/
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2025 Luv Suneja 
@@ -84,9 +82,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       normalize_issue_symbols: true
-      repo_url_shorthand: true
-      user: jxnl 
-      repo: instructor
+      repo_url_shorthand: false
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
@@ -140,9 +136,9 @@ extra:
     property: G-XXXX
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/jxnlco # TODO: add link
+      link: https://twitter.com/sunejaLuv # TODO: add link
     - icon: fontawesome/brands/github
-      link: https://github.com/jxnl # TODO: add link
+      link: https://github.com/mettafore # TODO: add link
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -150,4 +146,4 @@ extra_javascript:
   - javascripts/analytics.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-copyright: Copyright &copy; 2023 Jason Liu
+copyright: Copyright &copy; 2025 Luv Suneja

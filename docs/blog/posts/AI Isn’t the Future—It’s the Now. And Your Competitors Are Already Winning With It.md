@@ -1,5 +1,5 @@
 ---
-date: 2024-07-27
+date: 2025-07-27
 author:
  - me
 ---
@@ -113,5 +113,5 @@ And yes—modern tools are accelerating development. Engineers at startups like 
 
 I’m currently advising on AI strategy and building focused solutions for logistics, construction, and other regulated industries. I’m not selling software—I’m helping leaders like you identify where AI can move the needle fastest.
 
-👉 Let’s book a free 30-minute call and map your highest-impact AI opportunity.
+👉 [Let’s book a free 30-minute call](https://cal.com/luv-suneja) and map your highest-impact AI opportunity.
 

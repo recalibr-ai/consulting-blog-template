@@ -2,10 +2,10 @@
 
 Welcome to my technical blog where I share insights about:
 
-- AI System Implementation
-- Technical Architecture Design
-- Performance Optimization
-- Team Enablement
+ - AI System Implementation
+ - Technical Architecture Design
+ - Performance Optimization
+ - Team Enablement
 
 ## Featured Posts
 
@@ -13,6 +13,4 @@ Welcome to my technical blog where I share insights about:
 
 ## Stay Updated
 
-Subscribe to receive technical insights and best practices:
-
-[Subscribe to Updates](#) *(Add your newsletter signup link)*
+Newsletter coming soon. Check back for technical insights and best practices.
