@@ -2,14 +2,10 @@
 
 Welcome to my technical blog where I share insights about:
 
- - AI System Implementation
- - Technical Architecture Design
- - Performance Optimization
- - Team Enablement
-
-## Featured Posts
-
-*Add your technical blog posts in the `posts` directory.*
+ - AI Strategy
+ - Agentic AI and Evals
+ - ML Ops
+ - Hiring a high performing AI team
 
 ## Stay Updated
 
