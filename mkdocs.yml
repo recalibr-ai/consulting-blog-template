@@ -137,6 +137,8 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/sunejaLuv # TODO: add link
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/luvsuneja # TODO: update link
     - icon: fontawesome/brands/github
       link: https://github.com/mettafore # TODO: add link
 extra_css:
